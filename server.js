@@ -16,4 +16,4 @@ const profession = chance.profession();
 
 // const name = "Hans";
 // const age = 12;
-// const profession = "golddiger";
+// const profession = "Golddiger";
